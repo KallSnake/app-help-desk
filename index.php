@@ -132,7 +132,7 @@
     <!-- INICIO FOOTER -->
     <footer>
       
-      <div class="container text-md-center text-dark mt-5">
+      <div class="container text-center text-dark mt-5">
         
         <strong> 
 
