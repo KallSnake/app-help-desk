@@ -2,7 +2,7 @@ App desenvolvido com linguagem PHP, HTML5, CSS3 e Bootstrap 4 do curso Desenvolv
 
 Link abaixo, so clicar ou copiar e colar na URL do seu navegador.
 
-LINK: www.apphelpdesk.epizy.com
+LINK: http://www.apphelpdesk.epizy.com
 
 
 Perfil Administrativo
